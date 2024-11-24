@@ -1,0 +1,74 @@
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\CoinsActivity.exe.config
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\CoinsActivity.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\CoinsActivity.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\AForge.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\AForge.Imaging.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\AForge.Math.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Buffers.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Memory.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\AForge.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\AForge.Imaging.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\AForge.Math.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Buffers.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Drawing.Common.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Drawing.Common.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Memory.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.Form1.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.Properties.Resources.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.GenerateResource.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.CopyComplete
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\[CS313] Automata Theory and Formal Languages\Application\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\CoinsActivity.exe.config
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\CoinsActivity.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\CoinsActivity.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\AForge.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\AForge.Imaging.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\AForge.Math.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Buffers.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Memory.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\AForge.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\AForge.Imaging.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\AForge.Math.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Buffers.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Drawing.Common.pdb
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Drawing.Common.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Memory.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.Form1.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.Properties.Resources.resources
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.GenerateResource.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.csproj.CopyComplete
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.exe
+C:\Users\PC\Documents\COLLEGE FILES\3RD YEAR\CSIT349 - IS1\CoinsActivity\CoinsActivity\obj\Debug\CoinsActivity.pdb
